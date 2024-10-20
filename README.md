@@ -1,4 +1,5 @@
 # 💫 About Me:
+✨ My Portafolio!!: https://bazan-sergio-portafolio.netlify.app/
 🌱 I’m currently learning Typescript and Angular<br>
 
 
